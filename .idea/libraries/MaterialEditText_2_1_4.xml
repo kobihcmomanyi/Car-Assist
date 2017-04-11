@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="MaterialEditText-2.1.4">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.rengwuxian/MaterialEditText/2.1.4/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.rengwuxian/MaterialEditText/2.1.4/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.rengwuxian/MaterialEditText/2.1.4/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.rengwuxian/MaterialEditText/2.1.4/2c4916be63d40ee96ba90100834a5edf712d870d/MaterialEditText-2.1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
